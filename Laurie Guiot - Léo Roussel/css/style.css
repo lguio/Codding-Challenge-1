@@ -89,3 +89,47 @@ ul li:hover {
 	text-align: center;
 	margin: 0 auto;
 }
+
+/* Code pour la page login.html */
+
+
+.col{
+    width: 50%;
+    height: 100vh;
+    float: left;
+  }
+
+  .picture{
+    overflow: hidden;
+  }
+  .picture img{
+    height: 100%
+  }
+
+form{
+    width:100%;
+    padding: 30px;
+    background: black;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    color: white;
+}
+
+.bouton{
+    height: 30px;
+    width: 100px;
+    border-radius: 30%; 
+    background-color: white; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+/* Code pour la page contact */
+
+.information{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    align-items: center;
+    font-family: raleway;
+    font-size: 12px;
+}
